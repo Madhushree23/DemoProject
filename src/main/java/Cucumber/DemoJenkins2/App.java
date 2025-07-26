@@ -1,6 +1,8 @@
-package Cucumber.DemJenkins;
+package Cucumber.DemoJenkins2;
 
-//Added by Madhu
+/**
+ * Hello world!
+ */
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
